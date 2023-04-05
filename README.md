@@ -8,6 +8,7 @@
 ```
 git clone https://github.com/[yourusername]/NTL01-DTSC-LIVE-040323.git
 ```
+There is the meaningful message.
 
 3. Add the `/flatiron-school/` version as the `upstream` (to pull future changes)
 ```
